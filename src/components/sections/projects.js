@@ -182,6 +182,7 @@ const Projects = () => {
               tech
               github
               external
+              company
             }
             html
           }
@@ -267,7 +268,7 @@ const Projects = () => {
     <StyledProjectsSection>
       <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        What I've Built
+        What I've Built So Far
       </h2>
       
 
