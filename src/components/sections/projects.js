@@ -182,7 +182,7 @@ const Projects = () => {
               tech
               github
               external
-              
+              company
             }
             html
           }
@@ -303,9 +303,6 @@ const Projects = () => {
         )}
       </ul>
 
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </button>
     </section>
     </StyledProjectsSection>
 
