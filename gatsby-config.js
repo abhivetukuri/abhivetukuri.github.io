@@ -1,3 +1,6 @@
+// Increase the maximum number of event listeners to 25
+require('events').EventEmitter.defaultMaxListeners = 25;
+
 const config = require('./src/config');
 
 module.exports = {
