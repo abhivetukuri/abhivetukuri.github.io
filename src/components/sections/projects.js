@@ -182,7 +182,7 @@ const Projects = () => {
               tech
               github
               external
-              company
+              
             }
             html
           }
