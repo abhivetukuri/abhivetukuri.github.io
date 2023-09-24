@@ -1,11 +1,13 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2023-01-21'
+title: 'Software Engineer Intern'
+company: 'Innavate'
+location: 'Fremont, CA'
+range: 'Jan 2023 - Jun 2023'
+url: ''
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Architected reactive and scalable microservices for property management applications, utilizing NestJS, Node.js, MongoDB, and GraphQL, reducing server response times by 40% and decreasing latency by 25%
+- Developed data analytics dashboards leveraging Elasticsearch and Kibana, increasing actionable insights by 30%
+- Worked with CI/CD pipelines to deploy features to AWS including EC2, S3, and Lambda, decreasing release cycles 20%
+- Migrated legacy codebase into Docker containers, orchestrated with Kubernetes on AWS, improving performance by 25%

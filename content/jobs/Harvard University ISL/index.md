@@ -1,11 +1,12 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-05-21'
+title: 'Research Fellow'
+company: 'Harvard University ISL'
+location: 'Cambridge, MA'
+range: 'May 2021 - July 2021'
+url: 'https://projects.iq.harvard.edu/isl/home'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Conducted a Macro-Analysis on Covid-19’s effect on public school education using 5 public databases
+- Used R and MySQL to run ANOVA, Multi-Level Regression modeling, and variance analyses for 600 school districts to find insights into education quality
+- Co-wrote a 13-page paper published in the peer-reviewed journal SSRN to inform legislation in Arizona

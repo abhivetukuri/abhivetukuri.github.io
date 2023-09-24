@@ -1,13 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2021-06-21'
+title: 'Machine Learning Researcher'
+company: 'Georgia Tech'
+location: 'Atlanta, GA'
+range: 'Mar 2021 - Jul 2021'
+url: ''
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Constructed ML models for diabetes prediction using TensorFlow and Scikit-Learn, optimizing with Hyperopt/Optuna
+- Tested and tuned complex ML models including CNNs, SVMs, and random forests to reach 97% predictive accuracy on 2K medical records; employed techniques like k-fold validation and hyperparameter optimization
+- First author in a paper on the efficacy of the modeling that was accepted for publication in peer-reviewed journal IJHSR
